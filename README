@@ -1,0 +1,12 @@
+Simulated chat-box using HTML,CSS, and JavaScript. No Server, No Database. OOP only.
+
+Instructions:
+	Please press SUBMIT (up to 9 times) to simulate chat feature.
+
+
+Libraries:
+	HTML5
+	CSS3
+	JavaScript: OOP operations.
+	jQuery: added animation to place CSS scroll bar at the bottom of chat box.
+	Twitter BootStrap: for responsiveness and styling.
